@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1767847181623",
+    "timestamp": "2026-01-08T04:39:41.623Z",
+    "fileName": "Sunilkumar Resume Nov 2025.pdf",
+    "data": {
+      "candidate_profile": {
+        "full_name": "SUNILKUMAR R",
+        "target_title": "Full-Stack Developer",
+        "location": "Madhavaram, Chennai",
+        "contact_info": {
+          "email": "sunilkumar2010k@gmail.com",
+          "linkedin": "LinkedIn",
+          "portfolio": null
+        }
+      },
+      "slide_content": {
+        "professional_summary": "Highly skilled Full-Stack Developer with 3+ years of experience in web development, proficient in React, Node, and MySQL. Proven track record of designing responsive and interactive interfaces for 10+ clients.",
+        "core_competencies": [
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "MySQL",
+          "Redux",
+          "JavaScript (ES6+)",
+          "Responsive/Mobile-first UI design"
+        ],
+        "experience_highlights": [
+          {
+            "company": "CLUBITS SOLUTIONS",
+            "role": "Full-Stack Developer",
+            "duration": "Oct 2024 - Present",
+            "bullet_points": [
+              "Built Billing modules with advanced filtering, export, and DataGrid features",
+              "Implemented HRMS modules including Attendance, Leave, Shift Management, and Payroll processing"
+            ]
+          },
+          {
+            "company": "TALENT TAKEAWAYS INFOTECH PRIVATE LIMITED",
+            "role": "Full-Stack Developer",
+            "duration": "Sep 2022 - May 2023",
+            "bullet_points": [
+              "Developed About Us and Career pages using React, Node, Knex, and MySQL",
+              "Built and optimized the Employee Leave Tracker system"
+            ]
+          },
+          {
+            "company": "KAAY LABS",
+            "role": "Full-Stack Developer",
+            "duration": "May 2023 - Jan 2024",
+            "bullet_points": [
+              "Enhanced the Timesheet Management System by upgrading UI components and automating Slack notifications",
+              "Contributed to Urbscale, an online truck booking and availability platform"
+            ]
+          }
+        ],
+        "education_short": [
+          {
+            "degree": "MASTERS IN COMPUTER APPLICATION",
+            "institution": "MADRAS UNIVERSITY",
+            "year": "2020 - 2022"
+          },
+          {
+            "degree": "BACHELOR OF COMPUTER SCIENCE",
+            "institution": "SRM INSTITUTE OF SCIENCE & TECHNOLOGY",
+            "year": "2017 - 2020"
+          }
+        ]
+      }
+    }
+  }
+]

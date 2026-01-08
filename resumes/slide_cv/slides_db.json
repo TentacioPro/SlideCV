@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1767847679615",
+    "timestamp": "2026-01-08T04:47:59.615Z",
+    "fileName": "S MOHAMED ASLAM  - Resume (1) 1.pdf",
+    "data": {
+      "candidate_profile": {
+        "full_name": "Mohamed Aslam S",
+        "target_title": "Sales Executive",
+        "location": "Tenkasi",
+        "contact_info": {
+          "email": "sheikaslam2018@gmail.com",
+          "linkedin": "https://www.linkedin.com/in/mohamed-aslam-s-141439215",
+          "portfolio": ""
+        }
+      },
+      "slide_content": {
+        "professional_summary": "Analytical and client-focused professional with over 1 year of experience in B2B SaaS sales and international account management, skilled at mapping business requirements to product features and delivering tailored demonstrations.",
+        "core_competencies": [
+          "Zoho One",
+          "Zoho CRM",
+          "CRM - IBM Notes",
+          "Rocketreach",
+          "Lusha",
+          "LinkedIn Sales Navigator",
+          "Ms Office",
+          "SPSS"
+        ],
+        "experience_highlights": [
+          {
+            "company": "3five8 Technology (adda.io)",
+            "role": "Associate Sales Executive",
+            "duration": "Dec 2024 - Present",
+            "bullet_points": [
+              "Generated leads through platforms like LinkedIn, Rocketreach, and Sales Navigator",
+              "Conducted product demonstrations and presentations tailored to the needs of global clients"
+            ]
+          },
+          {
+            "company": "NetXD Software India Private Limited",
+            "role": "Executive-Sales & Digital Marketing",
+            "duration": "2019 - 2022",
+            "bullet_points": [
+              "Managed and grew a portfolio of client accounts, ensuring consistent engagement, retention, and upselling opportunities",
+              "Established and nurtured relationships with decision-makers in residential communities to expand client base"
+            ]
+          },
+          {
+            "company": "Dhrangadhra Chemical Works Pvt Ltd",
+            "role": "Management Trainee",
+            "duration": "",
+            "bullet_points": [
+              "Conducted an in-depth case study on Balancing profitability & environmental sustainability"
+            ]
+          }
+        ],
+        "education_short": [
+          {
+            "degree": "Master of Business Administration",
+            "institution": "Bharathiar University, Coimbatore",
+            "year": ""
+          },
+          {
+            "degree": "Bachelor of Science in Maths",
+            "institution": "JP College, Ayukudi, Tenkasi",
+            "year": "2022 - 2024"
+          }
+        ]
+      }
+    }
+  }
+]

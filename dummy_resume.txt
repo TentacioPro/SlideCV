@@ -1,0 +1,4 @@
+This is a dummy resume content for testing purposes.
+Full Name: John Doe
+Experience: Software Engineer at Google.
+Education: BSc in Computer Science.
